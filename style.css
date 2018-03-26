@@ -29,6 +29,12 @@ section
     background-color: #EAEDED;
 }
 
+ul
+{
+    color: #566573;
+    text-align: justify;
+}
+
 footer
 {
     position: absolute;
@@ -47,7 +53,55 @@ h2
     color: #2C3E50;
 }
 
+h3
+{
+    color: #5D6D7E;
+}
+
 .centre
 {
     text-align: center;
+}
+
+.date
+{
+    text-align: right;
+    color: #D0D3D4;
+    margin-bottom: 0px;
+}
+
+.date:hover
+{
+    color: #909497;
+}
+
+nav
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav ul
+{
+    display: none;
+}
+
+nav:hover ul {
+    display: block;
+}
+
+nav:hover ul ul{
+    display: none;
+}
+
+nav ul:hover ul{
+    display: block;
+}
+
+nav ul:hover ul ul {
+    display: none;
+}
+
+nav ul ul:hover ul {
+    display: block;
 }
