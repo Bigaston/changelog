@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://www.bigaston.me/changelog/en/rss/train-fic.xml" rel="self" type="application/rss+xml" />
+        <title>Changelog Train-Fic</title>
+        <description>Last news of Train-Fic</description>
+        <link>http://www.bigaston.me/changelog/en/train-fic.html</link>
+        <language>en</language>
+        
+        <image>
+            <title>Changelog Train-Fic</title>
+            <url>http://www.bigaston.me/images/favicon.png</url>
+            <link>http://www.bigaston.me/changelog/en/train-fic.html</link>
+            <width>56</width>
+            <height>56</height>
+        </image>
+        
+        <item>
+            <title>0.3.0</title>
+            <description>New upgrade!</description>
+            <link>http://www.bigaston.me/changelog/en/train-fic.html</link>
+            <guid isPermaLink="false">1521560153</guid>
+            <pubDate>Wed, 14 Mar 2018 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
