@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://www.bigaston.me/changelog/fr/rss/rush.xml" rel="self" type="application/rss+xml" />
+        <title>Changelog Rush</title>
+        <description>Les dernieres infos de Rush</description>
+        <link>http://www.bigaston.me/changelog/fr/rush.html</link>
+        <language>fr</language>
+        
+        <image>
+            <title>Changelog Rush</title>
+            <url>http://www.bigaston.me/images/favicon.png</url>
+            <link>http://www.bigaston.me/changelog/fr/rush.html</link>
+            <width>56</width>
+            <height>56</height>
+        </image>
+        
+        <item>
+            <title>0.3.0</title>
+            <description>Nouvelle mise a jour!</description>
+            <link>http://www.bigaston.me/changelog/fr/rush.html</link>
+            <guid isPermaLink="false">1521560153</guid>
+            <pubDate>Tue, 20 Feb 2018 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
