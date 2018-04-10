@@ -14,6 +14,14 @@
             <width>56</width>
             <height>56</height>
         </image>
+ 
+        <item>
+            <title>0.3.1</title>
+            <description>Nouvelle mise a jour!</description>
+            <link>http://www.bigaston.me/changelog/fr/rush.html</link>
+            <guid isPermaLink="false">1523370713</guid>
+            <pubDate>Tue, 10 Apr 2018 14:31:53 GMT</pubDate>
+        </item>
         
         <item>
             <title>0.3.0</title>

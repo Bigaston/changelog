@@ -16,9 +16,17 @@
         </image>
         
         <item>
+            <title>0.3.1</title>
+            <description>New upgrade!</description>
+            <link>http://www.bigaston.me/changelog/en/rush.html</link>
+            <guid isPermaLink="false">1523370713 </guid>
+            <pubDate>Tue, 10 Apr 2018 14:31:53 GMT</pubDate>
+        </item>    
+        
+        <item>
             <title>0.3.0</title>
             <description>New upgrade!</description>
-            <link>http://www.bigaston.me/changelog/fr/rush.html</link>
+            <link>http://www.bigaston.me/changelog/en/rush.html</link>
             <guid isPermaLink="false">1521560153</guid>
             <pubDate>Tue, 20 Feb 2018 12:00:00 GMT</pubDate>
         </item>
