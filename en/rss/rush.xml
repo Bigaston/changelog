@@ -8,18 +8,26 @@
         <language>en</language>
         
         <image>
-            <title>Changelog Train-Fic</title>
+            <title>Changelog Rush</title>
             <url>http://www.bigaston.me/images/favicon.png</url>
             <link>http://www.bigaston.me/changelog/en/rush.html</link>
             <width>56</width>
             <height>56</height>
         </image>
+      
+        <item>
+            <title>0.4.0</title>
+            <description>New upgrade!</description>
+            <link>http://www.bigaston.me/changelog/en/rush.html</link>
+            <guid isPermaLink="false">1523647185</guid>
+            <pubDate>Fri, 13 Apr 2018 19:19:45 GMT</pubDate>
+        </item>  
         
         <item>
             <title>0.3.1</title>
             <description>New upgrade!</description>
             <link>http://www.bigaston.me/changelog/en/rush.html</link>
-            <guid isPermaLink="false">1523370713 </guid>
+            <guid isPermaLink="false">1523370713</guid>
             <pubDate>Tue, 10 Apr 2018 14:31:53 GMT</pubDate>
         </item>    
         
